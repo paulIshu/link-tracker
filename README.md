@@ -1,21 +1,27 @@
-# coc8640b4ab7ea074c56f6bdc
+## Introduction
 
-Quick start:
+MyLeads is designed to help users maintain a list of website links that are important or interesting to them. It provides a simple interface to add new links, view the existing list, and delete all saved links. This project serves as a practical example of how to work with local storage in a web application.
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Add Links:** Users can add new website links to their list by entering the URL and clicking the "Add" button.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- **View Links:** The application displays the list of saved website links in an organized format with clickable links that open in a new tab.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Delete All:** Users can clear their entire list of saved links by double-clicking the "Delete All" button.
 
-Happy Coding!
+## Usage
+
+### Getting Started
+
+To run MyLeads locally, follow these steps:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/myleads-webapp.git
+Open the project directory:
+
+bash
+Copy code
+cd myleads-webapp
